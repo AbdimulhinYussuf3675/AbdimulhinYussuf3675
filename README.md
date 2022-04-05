@@ -6,7 +6,7 @@
 Skilled Software Developer with Extensive experience in Python, Flask, Django , ReactJs,Angular along with Data Structures & Algorithms.
 
 
-[![ABdimulhin's GitHub stats](https://github-readme-stats.vercel.app/api?AbdimulhinYussuf3675=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Abdimulhin's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdimulhinYussuf&show_icons=true&theme=radical)
 
 
 
