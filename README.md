@@ -3,7 +3,7 @@
 
 
 # Abdimulhin Adan
-Skilled Software Developer with Extensive experience in Python, Flask, Django , ReactJs, Angular along with Data Structures & Algorithms.
+Full-Stack web developer with a focus to build, maintain, and reconstruct unique userexperiences with web applications. Have equipped technical skills including Python, Flask, Django, JavaScript, Angular.js, Typescript, Node.js, jQuery, and CSS3.
 
 
 
