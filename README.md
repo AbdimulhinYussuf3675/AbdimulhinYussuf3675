@@ -1,7 +1,19 @@
 ### Hi there 👋
 
+
+
+# Abdimulhin Adan
+Skilled Software Developer with Extensive experience in Python, Flask, Django , ReactJs,Angular along with Data Structures & Algorithms.
+
+
+[![ABdimulhin's GitHub stats](https://github-readme-stats.vercel.app/api?AbdimulhinYussuf3675=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
-**AbdimulhinYussuf3675/AbdimulhinYussuf3675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
