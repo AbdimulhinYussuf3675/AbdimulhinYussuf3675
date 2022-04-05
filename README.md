@@ -3,7 +3,7 @@
 
 
 # Abdimulhin Adan
-Full-Stack web developer with a focus to build, maintain, and reconstruct unique userexperiences with web applications. Have equipped technical skills including Python, Flask, Django, JavaScript, Angular.js, Typescript, Node.js, jQuery, and CSS3.
+Full-Stack web developer with a focus to build, maintain, and reconstruct unique user experiences with web applications. Have equipped technical skills including Python, Flask, Django, JavaScript, Angular.js, Typescript, Node.js, jQuery, and CSS3.
 
 
 
