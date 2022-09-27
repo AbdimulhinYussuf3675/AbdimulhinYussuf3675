@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdimulhinYussuf3675" alt="Abdimulhinyussuf" /> </p>
+
 <h1 align="center">
   Welcome to Abdimulhin Adan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -67,6 +67,8 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdimulhinYussuf3675" alt="Abdimulhinyussuf" /> </p>
+
 ### 📊 Github stats
 
 <details align='center'> 
@@ -77,5 +79,5 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
