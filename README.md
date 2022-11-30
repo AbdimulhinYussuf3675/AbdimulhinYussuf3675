@@ -44,7 +44,7 @@
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="vue" src="https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
