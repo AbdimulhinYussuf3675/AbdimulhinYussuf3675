@@ -66,7 +66,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdimulhinYussuf3675" alt="Abdimulhinyussuf" /> </p>
+
 
 ## 📊 Github stats
 
