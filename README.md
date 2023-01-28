@@ -70,7 +70,7 @@
 
 
 
-## 📊 Github stats
+# 📊 Github stats
 
 <details align='center'> 
   <summary>💻 GitHub Profile Stats</summary>
