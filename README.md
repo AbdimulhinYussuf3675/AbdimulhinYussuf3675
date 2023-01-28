@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Welcome to Abdimulhin Adan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -8,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer%20%20%20;Always%20 Ready To learn%20new%20Stacks&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdimulhin-yussuf-7b110720b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abdimulhin-profile" height="30" width="30"/></a>&nbsp;
-<a href="https://twitter.com/abdimulhin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdimulhin-yussuf-7b110720b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" alt="Abdimulhin-profile"></a>&nbsp;
+<a href="https://twitter.com/abdimulhin" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>&nbsp;
 </p>
 <p align="center">
  <a href="https://github.com/AbdimulhinYussuf3675">
@@ -19,6 +18,10 @@
 </p>
 
 ## 🛠️ My favorite tools
+
+#
+
+<br>
 
 ### 👨‍💻 Programming and markup languages
 
@@ -73,10 +76,22 @@
 <details align='center'> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/AbdimulhinYussuf3675/github-readme-stats"><img alt="Abdimulhin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AbdimulhinYussuf3675&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/AbdimulhinYussuf3675/github-readme-stats"><img alt="Abdimulhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdimulhinYussuf3675&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 
+![](https://github-readme-stats.vercel.app/api?username=AbdimulhinYussuf3675&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdimulhinYussuf3675&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdimulhinYussuf3675&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdimulhinYussuf3675&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+</details>
+
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdimulhinYussuf3675" alt="Abdimulhinyussuf" /> </p>
