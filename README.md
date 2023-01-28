@@ -19,7 +19,6 @@
 
 ## 🛠️ My favorite tools
 
-#
 
 <br>
 
