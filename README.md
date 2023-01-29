@@ -95,4 +95,9 @@
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdimulhinYussuf3675" alt="Abdimulhinyussuf" /> </p>
+
+<p align="middle">
+  Thanks for visiting me! Until next time.
+  <br />
+  <img align="middle" src="https://profile-counter.glitch.me/{AbdimulhinYussuf3675}/count.svg" />
+</p>
