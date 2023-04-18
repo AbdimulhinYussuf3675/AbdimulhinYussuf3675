@@ -22,8 +22,8 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white"/></a>    
 </p>
 
- ## 👥 Connect with me:
- 
+## 👥 Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/abdimulhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdimulhin-yussuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdi-b89a791b3" height="30" width="40" /></a>&nbsp;
@@ -58,8 +58,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Python" src="
-            https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -81,12 +79,10 @@
 </p>
 
 ## 🔔 Tests
+
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a>
 <p/>
-
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
