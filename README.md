@@ -20,9 +20,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbdimulhinYussuf3675?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://wellfound.com/u/abdimulhin-yussuf">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
-  <a>
-  <img alt="Try it" src="https://aktive.tk/kenya/AbdimulhinYussuf3675?label=&color=cyan&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Kenya" />
-</a>
 </p>
 
 ## 👥 Connect with me:
